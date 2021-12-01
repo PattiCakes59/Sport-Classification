@@ -1,4 +1,4 @@
-![alt text](Phase5Images/Hogan copy.jpg)
+![alt text](Phase5Images/Hogancopy.jpg)
 
 ## Initial Data Exploration/Preparation
 The data comes from a repository on GitHub that can be found <a href=https://github.com/jurjsorinliviu/Sports-Type-Classifier>here.</a>
