@@ -20,7 +20,7 @@ The data comes from a repository on GitHub that can be found <a href=https://git
 - Loading up a couple of selections.
 - What do the images look like?
 
-![download.png](attachment:download.png)
+![alt text](https://github.com/PattiCakes59/Sport-Classification/blob/main/Phase5Images/download.png)
 
 ## Parameters
 - Preparing some parameters for the loader.
