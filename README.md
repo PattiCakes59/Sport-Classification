@@ -80,11 +80,11 @@ The data comes from a repository on GitHub that can be found <a href=https://git
 # plot_model(model,show_shapes=True, show_layer_names=True, rankdir='TB', expand_nested=True)
 ```
 
-![Layers.png](attachment:Layers.png)
+![alt text](https://github.com/PattiCakes59/Sport-Classification/blob/main/Phase5Images/Layers.png)
 
 ## Visualize Training Results
 - Let's create some plots of loss and accuracy for the training and validation sets!
-![Visuals.png](attachment:Visuals.png)
+![alt text](https://github.com/PattiCakes59/Sport-Classification/blob/main/Phase5Images/Visuals.png)
 
 - The plots above show that training accuracy and validation accuracy are off by large margins, and the model has achieved only around 60% accuracy on the validation set.
 
@@ -134,4 +134,4 @@ These can be included inside your model like other layers, and run on the GPU.
 - The model did a phenomenal job at predicting the image.
  - The model had 100% confidence in predicting the right sport for the image. This is excellent.
 
-![randomsample.jpeg](attachment:randomsample.jpeg)
+![alt text](https://github.com/PattiCakes59/Sport-Classification/blob/main/Phase5Images/randomsample.jpeg)
