@@ -6,7 +6,7 @@ The data comes from a repository on GitHub that can be found <a href=https://git
 - I will use the library pathlib in order to load up the data.
 - There are two types of paths in pathlib:
 >1. Relative path: The path relative to the folder we are currently working in.
- 2. Absolute path: The path that is relative to the operating system (this is the one I am working with).
+>2. Absolute path: The path that is relative to the operating system (this is the one I am working with).
 - There is a minor limit to the data. The images are of different aspects of the sport. For example, just a picture of a ball. Not necessarily the people playing with it.
 - Importing relevant libraries to operate on the data.
 
