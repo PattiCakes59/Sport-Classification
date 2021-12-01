@@ -93,7 +93,7 @@ The data comes from a repository on GitHub that can be found <a href=https://git
 ## Overfitting
 - In the plots above, the training accuracy is increasing linearly over time, whereas validation accuracy stalls around 60% in the training process. Also, the difference in accuracy between training and validation accuracy is noticeable.
 
-- When there are a small number of training examples, the model sometimes learns from noises or unwanted details from training examples. This can negatively impact the performance of the model on new examples. This phenomenon is known as overfitting. It means that the model will have a difficult time generalizing on a new dataset.
+- When there are a small number of training examples, the model sometimes learns from noises or unwanted details. This can negatively impact the performance of the model on new examples. This phenomenon is known as overfitting. It means that the model will have a difficult time generalizing on a new dataset.
 
 - There are multiple ways to fight overfitting in the training process. Going forward I will use data augmentation and add Dropout on the model.
 
