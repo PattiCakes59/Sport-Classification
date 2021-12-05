@@ -1,4 +1,5 @@
 # Summary of Repository
+![alt text](https://github.com/PattiCakes59/Sport-Classification/blob/main/NotebookImages/NavigationSymbol.jpg)
 1. Images Folder
  - This folder contains images that were used to add some flair to the SummaryNotebook and README.
   - It also contains an image under the title "randomsample" used to test the model.
