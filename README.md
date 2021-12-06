@@ -1,4 +1,4 @@
-![Baseball.png](https://github.com/PattiCakes59/Sport-Classification/blob/main/NotebookImages/Baseball.png)
+![Baseball.png](attachment:Baseball.png)
 
 # Business Problem
 
