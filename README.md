@@ -4,7 +4,7 @@
 
 Trying to retrieve information automatically is always better achieved when the data has been previously classified into categories. However, given the current amount of of available information, and more constantly being produced, it is very hard to manually classify all of them. That is why it is essential to establish a methodology that would be able to not only retrieve the data, but also to present the data in the correct class. One way to accomplish this later goal is to use a machine learning algorithm for classification. For this project in particular, we tackle the automatic classification of images related to different sports. Given the increasing success of of deep learning in classification tasks it only makes sense to use it for this classification.
 
-This <a rhef=https://www.sciencedirect.com/science/article/pii/S1877050920307560> article</a> goes more in depth about why sports image classification is important. In case the need for further reading.
+This <a rhef=https://www.sciencedirect.com/science/article/pii/S1877050920307560>article</a> goes more in depth about why sports image classification is important. In case the need for further reading.
 
 # Project Goals
 
