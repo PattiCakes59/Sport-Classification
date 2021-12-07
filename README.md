@@ -50,3 +50,13 @@ In terms of modeling the first thing that needs to be done is to prepare the dat
 The final model upon inspection performed satisfactory. The way it was evaluated was with an accuracy score. An accuracy score in this instance is a metric that explains how well the model did at predicting each class of image. The score is the fraction of predictions my model got right. The actual accuracy score in this case is a 72%. This tells me that 72/100 times I am identifying the right class of image. I also tested a random sample from the internet to see if the model could identify the class. The model tested the image and with 100% confidence it identified the image as baseball. The image was indeed baseball so the model performed well.
 
 ## Next Steps
+The next steps for this project are as followed:
+1. Work on improving the accuracy score of the model.
+ - This can be done by improving the CNN architecture.
+ - Also, find other tuning solutions for the model.
+2. Take the project to the next level. Ultimately this is one of the first steps towards moving into classifying sports injuries.
+ 1. Build a model to classify sports images.
+ 2. Separate images into photos of humans playing the sport vs the instruments used in the sport.
+ 3. Then move into human pose recognition which will allow the images to be categorized based on physical position.
+ 4. Ultimately this will be used for heat zones on different parts of the body to see where the stress is.
+ 5. The last few steps are ones I need to explore.
