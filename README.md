@@ -28,7 +28,7 @@ The data is a big part of any classification problem. I searched around and foun
 - Another way to get the data is through this [zip file](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jurjsorinliviu/Sports-Type-Classifier/tree/master/data) that I created. By clicking on the link the data will automatically download.
  
  
-There is a navigation tool for the repository found <a rhef=https://github.com/PattiCakes59/Sport-Classification/blob/main/NavigationREADME.md> here.</a>
+There is a navigation tool for the repository found [here](https://github.com/PattiCakes59/Sport-Classification/blob/main/NavigationREADME.md).
 
 
 ## Loading up the Data
@@ -40,7 +40,7 @@ Loading up images can sometimes be an issue. So, to make this easier on whomever
  - First load the images using the helpful tf.keras.utils.image_dataset_from_directory utility.
    - This will take you from a directory of images on disk to a tf.data.Dataset in just a couple lines of code.
  - After creating a dataset it is good practice to use a validation split. For this project I will use 80% of the images for training, and 20% for validation.
- - To learn more about the process and the libraries associated you can find the info <a rhef=https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory> here.</a>
+ - To learn more about the process and the libraries associated you can find the info [here](https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory).
 
 ## Modeling
 
