@@ -52,8 +52,8 @@ The final model upon inspection performed satisfactory. The way it was evaluated
 ## Next Steps
 The next steps for this project are as followed:
 1. Work on improving the accuracy score of the model.
- - This can be done by improving the CNN architecture.
- - Also, find other tuning solutions for the model.
+ >- This can be done by improving the CNN architecture.
+ >- Also, find other tuning solutions for the model.
 2. Take the project to the next level. Ultimately this is one of the first steps towards moving into classifying sports injuries.
  1. Build a model to classify sports images.
  2. Separate images into photos of humans playing the sport vs the instruments used in the sport.
