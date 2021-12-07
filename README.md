@@ -4,8 +4,7 @@
 
 Trying to retrieve information automatically is always better achieved when the data has been previously classified into categories. However, given the current amount of available information, and more constantly being produced, it is very hard to manually classify all of them. That is why it is essential to establish a methodology that would be able to not only retrieve the data, but also to present the data in the correct class. One way to accomplish this later goal is to use a machine learning algorithm for classification. For this project in particular, I will tackle the automatic classification of images related to different sports. Given the increasing success of deep learning for classification tasks it only makes sense to use it for this project.
 
-The link below provides a more in depth analysis of the business problem. It goes into more detail about why sports image classification is important. 
-- [This link](https://www.sciencedirect.com/science/article/pii/S1877050920307560)
+[This link](https://www.sciencedirect.com/science/article/pii/S1877050920307560)below provides a more in depth analysis of the business problem. It goes into more detail about why sports image classification is important. 
 
 # Project Goals
 
@@ -21,14 +20,12 @@ The reason I would like the accuracy score at this point or higher is because an
 
 ## Where to Find the Data
 The data is a big part of any classification problem. I searched around and found a GitHub repository that had all of the things I needed. There are 23 classes of images. This is plenty of images to create a good dataset.
-- The data repository on GitHub can be found through the following link:
- - https://github.com/jurjsorinliviu/Sports-Type-Classifier
+- The data repository on GitHub can be found through this [link](https://github.com/jurjsorinliviu/Sports-Type-Classifier).
 - To navigate to the the actual data used from the repository click on the file titled "data". 
  - This folder will open up and give you a list of 23 folders that include images of the folders label.
  - Included in the data is also a txt file that includes the url location of each image.
 - You can fork and clone the whole repository and get the data that way. 
-- Another way to get the data is through this zip file that I created. Either click on the link or copy and paste the link and the data will automatically be downloaded in the form of a zip file.
- - https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jurjsorinliviu/Sports-Type-Classifier/tree/master/data
+- Another way to get the data is through this [zip file](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jurjsorinliviu/Sports-Type-Classifier/tree/master/data) that I created. By clicking on the link the data will automatically download.
  
  
 There is a navigation tool for the repository found <a rhef=https://github.com/PattiCakes59/Sport-Classification/blob/main/NavigationREADME.md> here.</a>
