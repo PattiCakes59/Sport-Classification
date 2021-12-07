@@ -21,7 +21,8 @@ The reason I would like the accuracy score at this point or higher is because an
 
 ## Where to Find the Data
 The data is a big part of any classification problem. I searched around and found a GitHub repository that had all of the things I needed. There are 23 classes of images. This is plenty of images to create a good dataset.
-- The data repository on GitHub can be found <a rhef=https://github.com/jurjsorinliviu/Sports-Type-Classifier>through this link.</a>
+- The data repository on GitHub can be found through the following link:
+ - https://github.com/jurjsorinliviu/Sports-Type-Classifier
 - To navigate to the the actual data used from the repository click on the file titled "data". 
  - This folder will open up and give you a list of 23 folders that include images of the folders label.
  - Included in the data is also a txt file that includes the url location of each image.
