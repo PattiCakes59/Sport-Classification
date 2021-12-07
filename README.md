@@ -1,4 +1,4 @@
-![alt text](attachment:Baseball.png)
+![alt text](https://github.com/PattiCakes59/Sport-Classification/blob/main/NotebookImages/Baseball.png)
 
 # Business Problem
 
