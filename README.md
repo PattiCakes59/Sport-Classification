@@ -1,4 +1,4 @@
-![Baseball.png](attachment:Baseball.png)
+![alt text](attachment:Baseball.png)
 
 # Business Problem
 
